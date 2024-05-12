@@ -74,13 +74,15 @@ justify-content:center;
 
 }
 
-.select-box select{
-width:auto;
-font-size:16px;
-margin:0 -5px 0 5px;
+
+.select-box select {
+  width: auto;
+  font-size: 16px;
+  margin: 0 -5px 0 5px;
 }
 .select-box select ::-webkit-scrollbar{
 width:8px;
+
 
 }
 .select-box select ::-webkit-scrollbar-track{
@@ -94,7 +96,7 @@ border-right:2px solid #fff;
 
 }
 .select-box img{
-max-width:25px;
+max-width:21px;
 }
 
 .drop-list .icon{
@@ -117,6 +119,10 @@ background-color:DarkSlateBlue;
 
 }
 
+form button:hover{
 
+background-color:lightgray;
+
+}
 
 
